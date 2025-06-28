@@ -15,7 +15,7 @@ public class fibonacciSeries
 			b=c;
 		}
 		
-		/* Hi this is my first Commit */
+		
 		// above is the code for 7 days (28/06/2025)
 
 	}
