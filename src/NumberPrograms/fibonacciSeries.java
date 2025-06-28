@@ -16,7 +16,7 @@ public class fibonacciSeries
 		}
 		
 		/* Hi this is my first Commit */
-		// above is the GitHub code for 7 days (28/06/2025)
+		// above is the code for 7 days (28/06/2025)
 
 	}
 
